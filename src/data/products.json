@@ -1,0 +1,22 @@
+[
+  {"id":1,"name":"Cloud Knit Cardigan","price":2850,"category":"knitwear","image":"0137d36f2ffd6091624768ced4753786.jpg","isNew":false},
+  {"id":2,"name":"Stone Linen Shirt","price":2200,"category":"linen","image":"042cc2a48a27b4e25f2bcd31f6321c23.jpg","isNew":false},
+  {"id":3,"name":"Oat Milk Column Dress","price":3400,"category":"dresses","image":"06a3ed4dfbf68a01166b48af2f1e56aa.jpg","isNew":true},
+  {"id":4,"name":"Ash Ribbed Sweater","price":2600,"category":"knitwear","image":"0f0843da1c0cdb7838419b5b6c0140d7.jpg","isNew":false},
+  {"id":5,"name":"Oat Linen Wrap Set","price":3200,"category":"linen","image":"10d5492235d178e05b819e96b64b1ccf.jpg","isNew":true},
+  {"id":6,"name":"Fog Cropped Cardigan","price":2450,"category":"knitwear","image":"13a5b745928bb1b1dc8e235757978e72.jpg","isNew":false},
+  {"id":7,"name":"Dune Midi Skirt","price":2100,"category":"linen","image":"19760fc177b54b9af317eb2aa253efbb.jpg","isNew":false},
+  {"id":8,"name":"Chalk Cotton Shirt","price":1950,"category":"linen","image":"20f0b9f2c7df4ced437299b32f2f8d2c.jpg","isNew":false},
+  {"id":9,"name":"Moss Knit Vest","price":2050,"category":"knitwear","image":"3318dd4ec248f8bee601c23e77dd2320.jpg","isNew":false},
+  {"id":10,"name":"Sage Wide-Leg Trouser","price":2400,"category":"linen","image":"3e6f0d188d7f0927cfc291668de8250f.jpg","isNew":true},
+  {"id":11,"name":"Powder Mist Sweater","price":2600,"category":"knitwear","image":"4357c16ce23eef25989436c6486d133c.jpg","isNew":false},
+  {"id":12,"name":"Pearl Slip Dress","price":2900,"category":"dresses","image":"473f1384b777b68d0dc928d697c7f9ff.jpg","isNew":false},
+  {"id":13,"name":"Milk Linen Camisole","price":1600,"category":"linen","image":"65180697847bf6b273d33e0560ae6620.jpg","isNew":false},
+  {"id":14,"name":"Clay Wrap Cardigan","price":2750,"category":"knitwear","image":"6ceb37448aae0683825d6bad72895276.jpg","isNew":false},
+  {"id":15,"name":"Dew Silk Scarf","price":1200,"category":"accessories","image":"76184c58bc86d538d45c59382426b465.jpg","isNew":false},
+  {"id":16,"name":"Bone Oversized Set","price":3600,"category":"linen","image":"8a7fde0e8afd62e40034f157967e9a57.jpg","isNew":true},
+  {"id":17,"name":"Wheat Knit Beanie","price":950,"category":"accessories","image":"96174bf8e4e6eaf0c356b42781ebb7d3.jpg","isNew":false},
+  {"id":18,"name":"Linen Two-Piece Set","price":3500,"category":"linen","image":"c820b5e4b9fd0b73cc74016161781888.jpg","isNew":false},
+  {"id":19,"name":"Powder Slip Dress","price":2800,"category":"dresses","image":"e083da57e92cf67b1c49cb9cc0e12460.jpg","isNew":false},
+  {"id":20,"name":"Sand Knit Cardigan","price":2500,"category":"knitwear","image":"efc11cc3f1de4bc76541e0825e818776.jpg","isNew":false}
+]
